@@ -1,0 +1,18 @@
+.container {
+  margin-bottom: 17%;
+}
+.row {
+  background-color: white;
+  height: 500px;
+  padding: 9px 25px;
+}
+.buy-button {
+  padding: 9px 19px;
+  background-image: linear-gradient(to bottom, orange, red);
+  border-style: none;
+  border-radius: 6px;
+  color: white;
+}
+.carousel-indicators {
+  background-image: linear-gradient(to bottom, cyan, blue);
+}
